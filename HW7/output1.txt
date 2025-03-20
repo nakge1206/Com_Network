@@ -1,0 +1,1 @@
+Positioning is the most basic yet important process in a train control system. In practical train systems, theof a trainined with 
